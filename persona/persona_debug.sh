@@ -1,0 +1,1 @@
+./persona -env debug -ports 9008

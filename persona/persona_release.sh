@@ -1,0 +1,1 @@
+./persona -env release -ports 9008,9009,9010,9011

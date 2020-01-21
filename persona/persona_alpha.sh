@@ -1,0 +1,1 @@
+./persona -env alpha -ports 9008,9009
