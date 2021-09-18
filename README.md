@@ -1,2 +1,2 @@
-# goBin
-a simple go bin project
+# gogin
+a simple go gin project
